@@ -1520,6 +1520,4 @@ void vaciarArray() {
  * 		· Cambiar coordenadas x e y por puntos
  * 		· Hacer pila de movimientos
  * 		· Hacer modo coordenadas
- * WARN:
- * 		· Que Garzas no vea el código
  */
